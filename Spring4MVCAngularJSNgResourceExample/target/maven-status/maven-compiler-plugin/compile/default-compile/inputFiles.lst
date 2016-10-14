@@ -1,0 +1,8 @@
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/model/User.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/service/UserServiceImpl.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/service/UserService.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/configuration/CORSFilter.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/controller/IndexController.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java
+/home/yiwei/workspace/Spring4MVCAngularJSNgResourceExample/src/main/java/com/websystique/springmvc/controller/HelloWorldRestController.java
